@@ -1,0 +1,14 @@
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+vanguard_h7_x_rm_leg\stream_buffer.o: D:\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stdint.h
+vanguard_h7_x_rm_leg\stream_buffer.o: D:\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\string.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+vanguard_h7_x_rm_leg\stream_buffer.o: D:\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stddef.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+vanguard_h7_x_rm_leg\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
